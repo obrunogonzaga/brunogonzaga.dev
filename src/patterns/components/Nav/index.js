@@ -5,7 +5,7 @@ const links = [
   { href: "https://linkedin.com/in/brunogsantos/", label: "Linkedin" },
 ];
 
-export default function Nav() {
+function Nav() {
   return (
     <nav>
       <ul className="flex items-center justify-between p-8">
@@ -38,3 +38,5 @@ export default function Nav() {
     </nav>
   );
 }
+
+export default Nav;

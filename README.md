@@ -1,8 +1,9 @@
-brunogonzaga.dev
+# brunogonzaga.dev
+
 
 Bruno's personal website running on NextJS, Tailwind CSS, and React.
 
-# License
+## License
 This project is open source and available under the MIT License.
 
 ## Deploy your own

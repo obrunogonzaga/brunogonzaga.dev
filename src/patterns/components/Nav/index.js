@@ -12,7 +12,7 @@ function Nav() {
         <div className="flex justify-start">
           <li>
             <Link href="/">
-              <a className="mx-2 text-blue-500 no-underline text-accent-1 dark:text-blue-300">
+              <a className="mx-2 text-blue-500 font-bold no-underline text-accent-1 dark:text-blue-300">
                 Bruno Gonzaga
               </a>
             </Link>
@@ -21,6 +21,13 @@ function Nav() {
             <Link href="/">
               <a className="mx-2 text-blue-500 no-underline text-accent-1 dark:text-blue-300">
                 Artigos
+              </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/">
+              <a className="mx-2 text-blue-500 no-underline text-accent-1 dark:text-blue-300">
+                Sobre
               </a>
             </Link>
           </li>

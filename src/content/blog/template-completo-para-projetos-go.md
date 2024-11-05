@@ -1,7 +1,7 @@
 ---
 author: Bruno Gonzaga
-pubDatetime: 2024-11-05T15:22:00Z
-modDatetime: 2024-11-05T15:22:00Z
+pubDatetime: 2024-11-02T21:00:00Z
+modDatetime: 2024-11-02T21:00:00Z
 title: Template Completo para Projetos Go
 slug: template-completo-para-projetos-go
 featured: true
